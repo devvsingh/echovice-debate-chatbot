@@ -58,7 +58,7 @@ Use real facts and sharp reasoning.
     messages.append({"role": "user", "content": prompt})
 
     payload = {
-        "model": "deepseek/deepseek-r1-distill-llama-70b:free",
+        "model": "mistralai/devstral-2512:free",
         "messages": messages
     }
 
@@ -100,3 +100,4 @@ Use real facts and sharp reasoning.
 
 if __name__ == "__main__":
     app.run(debug=False)
+
