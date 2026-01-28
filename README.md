@@ -4,7 +4,7 @@ EchoVice is an AI-powered chatbot that debates with users by **taking the opposi
 Built with **Flask (Python)** for the backend and a **simple HTML/CSS/JS frontend**, it delivers engaging, real-time debates with customizable personas.
 
 ---
-**[Live Demo](https://echovice-debate-chatbot.onrender.com/)**
+**[Live Demo](https://echovice-v2.onrender.com)**
 ---
 ## 🚀 Features
 - 💬 **Interactive Debates** – Enter a statement and get an AI-generated counterargument.  
